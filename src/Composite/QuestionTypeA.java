@@ -7,6 +7,6 @@ public class QuestionTypeA extends Question{
 		// TODO Auto-generated constructor stub
 	}
 	public void print(){
-		System.out.println(description+"from type A");
+		System.out.println(description+"The question from type A");
 	}
 }
